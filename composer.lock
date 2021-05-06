@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5d3df422e814de779afdd832bb860470",
+    "content-hash": "f10feeaf878412ca9d5fc9db079e6dbb",
     "packages": [
         {
             "name": "almasaeed2010/adminlte",
@@ -512,6 +512,50 @@
             "license": [
                 "MIT"
             ]
+        },
+        {
+            "name": "snu1743/yii2-flcms",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/snu1743/yii2-flcms.git",
+                "reference": "88986dcb1cded252eb437c7dc6098be3b9b620b8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/snu1743/yii2-flcms/zipball/88986dcb1cded252eb437c7dc6098be3b9b620b8",
+                "reference": "88986dcb1cded252eb437c7dc6098be3b9b620b8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.0",
+                "yiisoft/yii2": "~2.0.0"
+            },
+            "type": "yii2-extension",
+            "autoload": {
+                "psr-4": {
+                    "fl\\flcms\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Anatoliy Smirnov",
+                    "email": "anatoliysmirnov79@yandex.ru"
+                }
+            ],
+            "description": "cms",
+            "keywords": [
+                "extension"
+            ],
+            "support": {
+                "issues": "https://github.com/snu1743/yii2-flcms/issues",
+                "source": "https://github.com/snu1743/yii2-flcms/tree/1.0.0"
+            },
+            "time": "2021-05-06T22:19:18+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
