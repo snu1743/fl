@@ -49,3 +49,7 @@ phpunit.phar
 /common/config_prod
 /console/config_prod
 /frontend/config_prod
+/backend/config_stage
+/common/config_stage
+/console/config_stage
+/frontend/config_stage
