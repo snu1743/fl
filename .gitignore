@@ -45,3 +45,7 @@ phpunit.phar
 /common/config
 /console/config
 /frontend/config
+/backend/config_prod
+/common/config_prod
+/console/config_prod
+/frontend/config_prod
