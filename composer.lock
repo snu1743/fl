@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f10feeaf878412ca9d5fc9db079e6dbb",
+    "content-hash": "5711713363b4354f63fa1345f189ce5f",
     "packages": [
         {
             "name": "almasaeed2010/adminlte",
@@ -43,6 +43,10 @@
                 "theme",
                 "web"
             ],
+            "support": {
+                "issues": "https://github.com/ColorlibHQ/AdminLTE/issues",
+                "source": "https://github.com/ColorlibHQ/AdminLTE/tree/v3.1.0"
+            },
             "time": "2021-03-22T07:30:50+00:00"
         },
         {
@@ -92,7 +96,7 @@
             "version": "3.5.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:jquery/jquery-dist.git",
+                "url": "https://github.com/jquery/jquery-dist.git",
                 "reference": "4c0e4becb8263bb5b3e6dadc448d8e7305ef8215"
             },
             "dist": {
@@ -515,16 +519,16 @@
         },
         {
             "name": "snu1743/yii2-flcms",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/snu1743/yii2-flcms.git",
-                "reference": "88986dcb1cded252eb437c7dc6098be3b9b620b8"
+                "reference": "62771d2901511f22be8c0195e9d1a419c569910a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/snu1743/yii2-flcms/zipball/88986dcb1cded252eb437c7dc6098be3b9b620b8",
-                "reference": "88986dcb1cded252eb437c7dc6098be3b9b620b8",
+                "url": "https://api.github.com/repos/snu1743/yii2-flcms/zipball/62771d2901511f22be8c0195e9d1a419c569910a",
+                "reference": "62771d2901511f22be8c0195e9d1a419c569910a",
                 "shasum": ""
             },
             "require": {
@@ -534,7 +538,7 @@
             "type": "yii2-extension",
             "autoload": {
                 "psr-4": {
-                    "fl\\flcms\\": ""
+                    "fl\\cms\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -553,9 +557,9 @@
             ],
             "support": {
                 "issues": "https://github.com/snu1743/yii2-flcms/issues",
-                "source": "https://github.com/snu1743/yii2-flcms/tree/1.0.0"
+                "source": "https://github.com/snu1743/yii2-flcms/tree/1.1.0"
             },
-            "time": "2021-05-06T22:19:18+00:00"
+            "time": "2021-05-07T23:21:02+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1041,16 +1045,16 @@
         },
         {
             "name": "yiisoft/yii2",
-            "version": "2.0.41.1",
+            "version": "2.0.42.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-framework.git",
-                "reference": "2ad0894a2ccbd3912b33de4419ad1ae3df0595c4"
+                "reference": "976e2e892af4df933831b5e0a05d0acf4b173d98"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/2ad0894a2ccbd3912b33de4419ad1ae3df0595c4",
-                "reference": "2ad0894a2ccbd3912b33de4419ad1ae3df0595c4",
+                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/976e2e892af4df933831b5e0a05d0acf4b173d98",
+                "reference": "976e2e892af4df933831b5e0a05d0acf4b173d98",
                 "shasum": ""
             },
             "require": {
@@ -1158,7 +1162,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-03-04T15:45:04+00:00"
+            "time": "2021-05-06T11:44:35+00:00"
         },
         {
             "name": "yiisoft/yii2-bootstrap",
@@ -5318,16 +5322,16 @@
         },
         {
             "name": "yiisoft/yii2-debug",
-            "version": "2.1.16",
+            "version": "2.1.17",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-debug.git",
-                "reference": "0d8ce76b2dd036a5fc38b26434e1c672ad8975a9"
+                "reference": "21a259c27dacedf19ac1e00d4a7180e3043d7859"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-debug/zipball/0d8ce76b2dd036a5fc38b26434e1c672ad8975a9",
-                "reference": "0d8ce76b2dd036a5fc38b26434e1c672ad8975a9",
+                "url": "https://api.github.com/repos/yiisoft/yii2-debug/zipball/21a259c27dacedf19ac1e00d4a7180e3043d7859",
+                "reference": "21a259c27dacedf19ac1e00d4a7180e3043d7859",
                 "shasum": ""
             },
             "require": {
@@ -5404,7 +5408,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-12-23T16:36:12+00:00"
+            "time": "2021-05-05T22:02:36+00:00"
         },
         {
             "name": "yiisoft/yii2-faker",
