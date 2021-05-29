@@ -8,8 +8,9 @@ use yii\bootstrap\Nav;
 use yii\bootstrap\NavBar;
 use yii\widgets\Breadcrumbs;
 use frontend\assets\AppAsset;
+use fl\cms\assets\FlAssets;
 use common\widgets\Alert;
-
+FlAssets::register($this);
 AppAsset::register($this);
 ?>
 <?php $this->beginPage() ?>
