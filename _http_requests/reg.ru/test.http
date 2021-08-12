@@ -1,0 +1,4 @@
+GET https://api.reg.ru/api/regru2/get_service_id?domain_name=freelemur.com&password=7h5TnDYhJwBdgTQ8&username=anatoliysmirnov79@yandex.ru
+Accept: application/json
+
+###
